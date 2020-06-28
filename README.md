@@ -2,7 +2,7 @@
 
 ## How to run the files
 
-* Install Node
+* Install Node on your local machine
 * Clone this repo
 * Open Command line interface
 * cd into the cloned directory
