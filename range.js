@@ -1,5 +1,9 @@
 let range = (start, end) => {
-  for (let i = start; i <= end; i++) console.log(i);
+  let array = [];
+  for (let i = start; i <= end; i++) {
+    array.push(i);
+  }
+  console.log(array);
 };
 
 range(0, 9);
